@@ -1,14 +1,17 @@
+// hangman by nelson
+// last updated: 15.02.2024
+
 #include <iostream>
 #include <vector>
 #include <string>
-#include <ctime>
+#include <ctime> //for sleep fct
 #include <iomanip> //for table output
 
 using namespace std;
 int winstreak = 0;
 int maxwinstreak = 30; //adaptable
 
-
+// long german words to add for fun:
 ///donaudampfschifffahrtselektrizitaetenhauptbetriebswerkbauunterbeamtengesellschaft
 ///grundstuecksverkehrsgenehmigungszustaendigkeitsuebertragungsverordnung
 ///rindfleischetikettierungsueberwachungsaufgabenuebertragungsgesetz
