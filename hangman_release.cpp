@@ -8,6 +8,7 @@ using namespace std;
 int winstreak = 0;
 int maxwinstreak = 30; //adaptable
 
+
 ///donaudampfschifffahrtselektrizitaetenhauptbetriebswerkbauunterbeamtengesellschaft
 ///grundstuecksverkehrsgenehmigungszustaendigkeitsuebertragungsverordnung
 ///rindfleischetikettierungsueberwachungsaufgabenuebertragungsgesetz
